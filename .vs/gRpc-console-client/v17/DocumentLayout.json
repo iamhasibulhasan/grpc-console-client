@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learning-ridu\\gRpc-console-client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|d:\\learning-ridu\\grpc-console-client\\grpc-console-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|solutionrelative:grpc-console-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|d:\\learning-ridu\\grpc-console-client\\grpc-console-client\\protos\\helloworld.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|solutionrelative:grpc-console-client\\protos\\helloworld.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|d:\\learning-ridu\\grpc-console-client\\grpc-console-client\\grpc-console-client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A7B45F1-4CB2-48EC-8D62-9A7EB6CF769B}|gRpc-console-client\\gRpc-console-client.csproj|solutionrelative:grpc-console-client\\grpc-console-client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gRpc-console-client",
+              "DocumentMoniker": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\gRpc-console-client.csproj",
+              "RelativeDocumentMoniker": "gRpc-console-client\\gRpc-console-client.csproj",
+              "ToolTip": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\gRpc-console-client.csproj",
+              "RelativeToolTip": "gRpc-console-client\\gRpc-console-client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T08:01:10.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.proto",
+              "DocumentMoniker": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\Protos\\HelloWorld.proto",
+              "RelativeDocumentMoniker": "gRpc-console-client\\Protos\\HelloWorld.proto",
+              "ToolTip": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\Protos\\HelloWorld.proto",
+              "RelativeToolTip": "gRpc-console-client\\Protos\\HelloWorld.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-06-02T07:48:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\Program.cs",
+              "RelativeDocumentMoniker": "gRpc-console-client\\Program.cs",
+              "ToolTip": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\Program.cs",
+              "RelativeToolTip": "gRpc-console-client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:44:09.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "feJwdLt2H5w=",
+  "success": true,
+  "projectFilePath": "D:\\learning-ridu\\gRpc-console-client\\gRpc-console-client\\gRpc-console-client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512",
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\grpc.tools\\2.72.0\\grpc.tools.2.72.0.nupkg.sha512",
+    "C:\\Users\\TechnoNext\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

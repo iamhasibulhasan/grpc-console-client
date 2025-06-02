@@ -1,0 +1,2 @@
+CompilerGenerated\.\Protos/HelloWorld.cs \
+CompilerGenerated\.\Protos/HelloWorldGrpc.cs: Protos/HelloWorld.proto
